@@ -1,0 +1,26 @@
+name: uas_mobile_h1d022030
+description: "Flutter UAS"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  fl_chart: ^0.65.0
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  http: ^1.2.2
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+  animated_text_kit: ^4.2.2
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  
